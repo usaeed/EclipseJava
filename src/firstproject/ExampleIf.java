@@ -18,7 +18,7 @@ public class ExampleIf {
           }else if (x == y){
               System.out.println("x is equal to y");
               
-          }else if (x > y){
+          }else {
               System.out.println("x is greater than y");
               
           }
